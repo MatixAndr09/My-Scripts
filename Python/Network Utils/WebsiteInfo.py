@@ -2,7 +2,6 @@ from colorama import Fore, Style
 import socket
 import time
 
-
 vulnerable_ports = {
     21: "(FTP)",
     22: "(SSH)",
