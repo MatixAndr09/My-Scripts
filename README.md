@@ -5,4 +5,4 @@ Hello everyone here you can find for free my scripts that i made in python and m
 # Current Available Scripts
 
 `Python`
-> :python: [File Logger](https://github.com/MatixAndr09/My-Scripts/blob/main/File%20Logger/FileLogger.py)
+> [File Logger](https://github.com/MatixAndr09/My-Scripts/blob/main/File%20Logger/FileLogger.py)
