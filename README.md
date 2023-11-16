@@ -16,4 +16,3 @@ Hello everyone here you can find for free my scripts that i made in python and m
 
 <img src="https://cdn.discordapp.com/emojis/763438061501022209.webp?size=96&quality=lossless" width="16" height="16" alt="tcp"> **Web**
   - 📷 *Instagram Demo* _(Work In Progress)_
-
