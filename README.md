@@ -2,7 +2,7 @@
 
 Hello everyone here you can find for free my scripts that i made in python and more! Feel free to give sugesstions
 
-![MatixAndr's github stats](https://github-readme-stats.vercel.app/api?username=matixandr09&show_icons=true&theme=radical)
+![MatixAndr's github stats](https://github-readme-stats.vercel.app/api?username=matixandr09&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matixandr09&hide_progress=true)
 
 # Current Available Scripts
 
