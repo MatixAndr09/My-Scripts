@@ -1,0 +1,36 @@
+img.icon {
+    width: 24px;
+    height: 24px;
+}
+
+img.avatar {
+  border-radius: 50%;
+  border: 1px solid rgba(0, 0, 0, 098);
+  box-sizing: content-box;
+}
+
+img.avatar.small {
+  width: 32px;
+  height: 32px;
+}
+
+img.avatar.medium {
+  width: 44px;
+  height: 44px;
+}
+
+img.avatar.large {
+  width: 56px;
+  height: 56px;
+}
+
+.gradient{
+  background: linear-gradient(45deg,#ffc502,#d300c5);
+  padding: 2px;
+  border-radius: 50%;
+  display: flex;
+}
+
+.gradient > img {
+  border:2px solid white;
+}

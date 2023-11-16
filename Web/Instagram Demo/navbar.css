@@ -1,0 +1,48 @@
+.navbar {
+    width: 244px;
+    height: 100vh; /* NEW */
+    border-right: 1px solid #dbdbdb;
+    padding: 8px 12px;
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+.navbar > .logo {
+  padding: 32px 12px;
+}
+
+.navbar > .menu {
+  flex: 1; /* NEW */
+}
+
+.navbar ul {
+  display: flex;
+  flex-direction: column;
+  gap: 8px; /* NEW */
+}
+
+.navbar ul > li > a {
+  padding: 12px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.navbar ul > li > a.hover > img.icon {
+  background: rgba(0, 0, 0, 0.05);
+  transition: 0.2s;
+}
+
+.navbar ul > li > a.active {
+  opacity: 0.5;
+}
+
+.navbar ul > li > a.active > img.icon {
+  transform: scale(0.95);
+}
+
+.nabar ul > li > a.selected {
+  font-weight: bold;
+}
