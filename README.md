@@ -2,7 +2,7 @@
 
 Hello everyone here you can find for free my scripts that i made in python and more! Feel free to give sugesstions
 
-![MatixAndr's github stats](https://github-readme-stats.vercel.app/api?username=matixandr09&show_icons=true&theme=radical)[![MatixAndr's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matixandr09)](https://github.com/anuraghazra/github-readme-stats)
+![MatixAndr's github stats](https://github-readme-stats.vercel.app/api?username=matixandr09&show_icons=true&theme=radical)[![MatixAndr09's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matixandr09)](https://github.com/anuraghazra/github-readme-stats)
 
 # Current Available Scripts
 
