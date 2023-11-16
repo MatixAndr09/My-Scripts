@@ -14,5 +14,5 @@ Hello everyone here you can find for free my scripts that i made in python and m
 <img src="https://cdn.discordapp.com/emojis/763441152640417814.webp?size=96&quality=lossless" width="16" height="16" alt="tcp"> **C#**
   - 🧨 *Simple Calculator* 
 
-<img src="https://cdn.discordapp.com/emojis/763438061501022209.webp?size=96&quality=lossless" width="32" height="32" alt="tcp"> **Web**
+<img src="https://cdn.discordapp.com/emojis/763438061501022209.webp?size=96&quality=lossless" width="16" height="16" alt="tcp"> **Web**
   - 📷 *Instagram Demo* _(Work In Progress)_
