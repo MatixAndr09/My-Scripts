@@ -16,12 +16,3 @@ Hello everyone here you can find for free my scripts that i made in python and m
 
 <img src="https://cdn.discordapp.com/emojis/763438061501022209.webp?size=96&quality=lossless" width="16" height="16" alt="tcp"> **Web**
   - 📷 *Instagram Demo* _(Work In Progress)_
-
-$.ajax({
-  type: 'GET',
-  url: 'https://wakatime.com/share/@matixandr09/2778aefa-d72d-4ab3-9f61-ee6a39c25541.json',
-  dataType: 'jsonp',
-  success: function(response) {
-    console.log(response.data);
-  },
-});
