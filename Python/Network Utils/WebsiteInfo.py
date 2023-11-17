@@ -29,7 +29,9 @@ def set_title(title):
     
 url_list = input("Enter URLs (comma-separated): ").split(',')
 sstart_tajm = time.time()
+port_number = 0
 set_title(f"Illegal Network - Website Info v.1.0")
+
 for url in url_list:
     start_time = time.time()
 
@@ -46,6 +48,8 @@ for url in url_list:
             file.write(f"\nIP addresses: {dns_info[2]}\n")
 
             for port in range(1, 1025):
+                port_number += 1
+                set_title(f"Illegal Network - Website Info v.1.0 | Scanned Ports {port_number}")
                 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
                 sock.settimeout(0.1)
                 result = sock.connect_ex((ip_address, port))
