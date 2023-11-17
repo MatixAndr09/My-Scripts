@@ -1,4 +1,5 @@
 from colorama import Fore, Style
+import ctypes
 import socket
 import time
 
@@ -23,9 +24,12 @@ vulnerable_ports = {
     5900: "(VNC)",
 }
 
+def set_title(title):
+    ctypes.windll.kernel32.SetConsoleTitleW(title)
+    
 url_list = input("Enter URLs (comma-separated): ").split(',')
 sstart_tajm = time.time()
-
+set_title(f"Illegal Network - Website Info v.1.0")
 for url in url_list:
     start_time = time.time()
 
